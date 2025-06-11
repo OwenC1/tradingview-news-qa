@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "headline": "Goldman Sachs Profits Double",
+      "symbol": "NYSE:GS",
+      "urgency": 2,
+      "pubdate": "2024-06-05T10:00:00Z",
+      "subject": "earnings",
+      "body": "Goldman Sachs reported quarterly earnings that beat analyst expectations, driven by strong performance in investment banking.",
+      "source": "Reuters",
+      "category": "finance"
+    },
+    {
+      "headline": "Bitcoin ETF Decision Delayed",
+      "symbol": "NASDAQ:ARK",
+      "urgency": 3,
+      "pubdate": "2024-06-05T11:00:00Z",
+      "subject": "cryptocurrency",
+      "body": "The SEC announced a delay in the approval process for ARK's proposed Bitcoin ETF.",
+      "source": "Bloomberg",
+      "category": "crypto"
+    },
+    {
+      "headline": "EUR/USD Falls After ECB Announcement",
+      "symbol": "FX:EURUSD",
+      "urgency": 1,
+      "pubdate": "2024-06-05T12:00:00Z",
+      "subject": "forex",
+      "body": "The euro dropped sharply against the U.S. dollar following a policy statement from the European Central Bank.",
+      "source": "ECB Newswire",
+      "category": "macro"
+    },
+    {
+      "headline": "Unlabeled Entry With Missing Info",
+      "symbol": "",
+      "urgency": 2,
+      "pubdate": "",
+      "subject": "",
+      "body": "",
+      "source": "",
+      "category": ""
+    }
+  ]
+}

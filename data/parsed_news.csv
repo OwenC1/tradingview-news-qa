@@ -1,0 +1,4 @@
+headline,symbol,urgency,pubdate,tag,body,source,category
+Goldman Sachs Profits Double,NYSE:GS,2,2024-06-05T10:00:00+00:00,earnings,"Goldman Sachs reported quarterly earnings that beat analyst expectations, driven by strong performance in investment banking.",Reuters,finance
+Bitcoin ETF Decision Delayed,NASDAQ:ARK,3,2024-06-05T11:00:00+00:00,cryptocurrency,The SEC announced a delay in the approval process for ARK's proposed Bitcoin ETF.,Bloomberg,crypto
+EUR/USD Falls After ECB Announcement,FX:EURUSD,1,2024-06-05T12:00:00+00:00,forex,The euro dropped sharply against the U.S. dollar following a policy statement from the European Central Bank.,ECB Newswire,macro

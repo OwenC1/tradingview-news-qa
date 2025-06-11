@@ -1,0 +1,19 @@
+provider: reuters
+url: https://www.ecb.europa.eu/rss/fxref-usd.html
+format: xml
+encoding: utf-8
+
+fields:
+  headline_path: "//headline/text()"
+  body_path: "//body/text()"
+  qcode_path: "//subject/@qcode"
+
+validation:
+  required_fields:
+    - headline
+    - body
+    - qcode
+  regex_rules:
+    - field: body
+      pattern: "NASDAQ:[A-Z]+"
+      must_match: true

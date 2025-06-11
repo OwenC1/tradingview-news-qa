@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsMessage xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/
+             https://www.iptc.org/std/NewsML-G2/2.24/specification/NewsML-G2_2.24-spec-All-Power.xsd"
+             xmlns="http://iptc.org/std/nar/2006-10-01/">
+  <header>
+    <sent>2023-12-11T17:06:47.25Z</sent>
+    <sender qcode="PBLorg:62840">PUBT</sender>
+    <transmitId>urn:newsml:publicnow.com:20231211-184</transmitId>
+    <destination qcode="PBLdist:184" />
+  </header>
+  <itemSet>
+    <newsItem standard="NewsML-G2" standardversion="2.24" conformance="power"
+              guid="urn:newsml:publicnow.com:20231211:114963882" xml:lang="en">
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_3.xml" />
+      <rightsInfo>
+        <copyrightHolder qcode="PBLorg:131138" literal="Applied Optoelectronic Inc." />
+        <copyrightNotice xml:lang="en">(C) Copyright 2023 - Applied Optoelectronic Inc.</copyrightNotice>
+      </rightsInfo>
+      <itemMeta>
+        <itemClass qcode="icls:text" />
+        <provider qcode="PBLorg:62840" />
+        <versionCreated>2023-12-11T17:06:47.25Z</versionCreated>
+        <firstCreated>2023-12-11T17:06:47.25Z</firstCreated>
+        <pubStatus qcode="stat:usable" />
+        <fileName>npbl_nml_20231211_01_114963882_184.xml</fileName>
+        <incomingFeedId qcode="PBLfeedId:SFD020010" role="feedIdRole:provFeedId" />
+      </itemMeta>
+      <contentMeta>
+        <contentCreated>2023-12-11T00:00:00.0000000Z</contentCreated>
+        <located>
+          <name>United States</name>
+        </located>
+        <infoSource qcode="PBLorg:131138" role="cRole:source" />
+        <creator qcode="PBLorg:131138" role="cRole:source" />
+        <contributor qcode="PBLorg:62840" role="cRole:enhancer" />
+        <altId type="idType:TPCID">114963882</altId>
+        <language tag="en" />
+        <headline>Applied Optoelectronic Inc. - AAOI 3Q23 Investor Presentation</headline>
+        <creditline>Applied Optoelectronic Inc. published this content on 11 Dec 2023 and is solely responsible for the information contained herein. Distributed by PUBT, unedited and unaltered, on 11 Dec 2023 17:05:22 UTC.</creditline>
+        <description role="descRole:caption">Applied Optoelectronic Inc.:</description>
+        <subject qcode="subj:04000000" />
+      </contentMeta>
+    </newsItem>
+  </itemSet>
+</newsMessage>
