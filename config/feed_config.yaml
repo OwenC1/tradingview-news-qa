@@ -17,3 +17,7 @@ validation:
     - field: body
       pattern: "NASDAQ:[A-Z]+"
       must_match: true
+
+- field: body
+  min_length: 30
+
